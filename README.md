@@ -1,2 +1,2 @@
 # Movie-App
-Movie App for MAL
+Movie App for Udacity Course
